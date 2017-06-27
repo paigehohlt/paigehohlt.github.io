@@ -1,7 +1,9 @@
 body {
 	background-color: black;
+	font-family: helvetica;
+	text-align: center
 }
 
 h1, p {
-	color:pink;
+	color:#a1a1a1;
 }
