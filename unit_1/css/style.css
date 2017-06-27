@@ -1,0 +1,12 @@
+body {
+	color:#ef5456;
+	background-color:#f5f5f5;
+	font-family:helvetica;
+	text-transform: uppercase;
+	letter-spacing:0.5px;
+	padding-left:150px;
+}
+
+p {
+	font-size:12px;
+}
