@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,400|Playfair+Display|Raleway:400,800');
+
+body {
+	color:#ef5456;
+	background-color:#f5f5f5;
+	font-family:helvetica;
+	letter-spacing:0.5px;
+	size:12px;
+	margin: 50px 100px 100px 100px;
+	z-index: 1;
+}
+
+nav {
+    background-color: #DCDCDC;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+image {
+    background-color: #D3D3D3;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#copy {
+    background-color: #C0C0C0;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #A9A9A9;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+h1 {
+	font-size:45px;
+	line-height: 1.5em;
+	font-weight:400;
+	font-family: 'Playfair Display', serif;
+
+}
+
+#slogan {
+	font-size:18px;
+	line-height: 1.5em;
+	color:#666;
+	text-transform:uppercase;
+	font-family: 'Raleway', sans-serif;
+	font-weight:200;
+}
+
+#flower {
+}
+
+#list {
+	width:px;
+	color:#808080;
+	font-size:15px;
+	font-family: 'Raleway', sans-serif;
+}
+
+#face {
+	margin-top:px;
+}
