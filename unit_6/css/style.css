@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:200,400|Playfair+Display|Raleway:400,800');
+@import url('https://fonts.googleapis.com/css?family=Archivo+Narrow');
+
+body {
+	color:#000;
+	font-family:'Archivo Narrow', sans-serif;
+	letter-spacing:0.5px;
+	size:1em;
+	margin: 50px 100px 100px 100px;
+	z-index: 1;
+}
+
+nav {
+    padding: 20px;
+    text-align:right;
+    text-decoration:none;
+    color:#000;
+}
+
+li {
+	display: inline;
+	color:#000;
+	text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f6adc0;
+}
+
+image {
+    padding: 20px;
+}
+
+#two_column {
+    background-color:;
+    border: 0px black solid;
+    padding: 20px;
+}
+
+#left {
+    border: 0px black solid;
+    padding: 0px;
+    background-color:;
+    float: left;
+    width: 20%;
+}
+
+#right {
+    background-color: ;
+    border: px black solid;
+    padding: 10px;
+    float: right;   
+    width: 70%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#title {
+	background-color:;
+    padding: 0px;
+    font-size: 5em;
+	line-height: .9em;
+	font-weight:400;
+	font-family: 'Playfair Display', serif;
+}
+
+footer {
+	background-color:;
+    border: 0px black solid;
+    padding: 20px;
+}
+
+a {
+	color:#000;
+	text-decoration: none;
+}
+#slogan {
+	font-size:1.8em;
+	line-height: 1.1em;
+	color:#000;
+	text-transform:uppercase;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight:200;
+	padding-bottom:20px;
+}
+
+#flower {
+	padding-bottom:30px;
+}
+
+#list {
+	width:px;
+	color:#000;
+	font-size:1em;
+	font-family: 'Archivo Narrow', sans-serif;
+}
+
+#face {
+	margin-top:px;
+}

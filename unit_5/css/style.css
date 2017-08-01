@@ -22,6 +22,12 @@ image {
     padding: 20px;
 }
 
+#selfcare {
+    background-color: #C0C0C0;
+    border: 1px black solid;
+    padding: 20px;
+}
+
 #copy {
     background-color: #C0C0C0;
     border: 1px black solid;
